@@ -1,8 +1,6 @@
 <html>
 <body>
-    <form
-        action="http://localhost/mensagem.php"
-        method="POST">
+    <form action="http://localhost/mensagem.php" method="POST">
         Nome: <input type="text" name="txtNome" >
         Idade: <input type="text" name="txtIdade">
         <button type="submit">Submeter</button>
