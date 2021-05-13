@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
     <form action="mensagem.php" method="POST">
