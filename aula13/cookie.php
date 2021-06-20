@@ -16,7 +16,7 @@ if(array_key_exists('usuario', $_REQUEST) && $_REQUEST['usuario'] === 'ftec'){
 <html>
 <body>
 	<form method = "post" action = "logoff.php">
-		Usu·rio
+		Usu√°rio
 		<input type = "text" name = "usuario" value = "<?=$NomeUsuario ?>">
 		<button type = "submit">Logar</button>
 	</form>
